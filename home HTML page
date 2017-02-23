@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title> Title </title>
+		<meta charset="utf-8">
+</head>
+
+<body id="page1">
+<!--==============================header=================================-->
+<header
+ <div class="main">
+   <div class="row-bot">
+      <div class="wrapper">
+        <h1><a href="index.html"> Project Title</a></h1>
+        <nav>
+          <ul class="menu">
+            <li><a class="active" href="index.html">Home</a></li>   
+             <li><a href="cultureguide.html"> Guide</a></li>
+             <li><a href="gallery.html">Gallery</a></li> 
+             <li><a href="contact.html">Contact Us</a></li>           
+           
+          </ul>
+        </nav>
+       </div>
+    </div>
+  </div>
+  <div class="row-bot">
+    <div class="row-bot-bg">
+  	 <div class="main">
+        <h2>Welcome to Culture <span>Guide Page</span></h2>
+      </div>
+</header>
+<!--==============================content================================-->
+<section id="content">
+  <div class="main">
+    <div id="mainimage">
+		<img height="600" src="images/img001.JPG" width="965" /></div>
+	
+	<div id="col1">
+		<p><strong> Project Title  </strong> This is HTML for page </p>
+	</div>
+	
+	
+	
+	</div>
+	<div id="sidebar">
+            <h1>Sidebar</h1>
+        </div>
+  </div>
+</section>
+<!--==============================footer=================================-->
+<footer>
+  <div class="main">
+    <div class="aligncenter"> copyright </div>
+  </div>
+</footer>
+
+</body>
+</html>
